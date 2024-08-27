@@ -2,5 +2,5 @@
 This is the list of allow target for you practice scanning
 
 ## List
-scanme.nmap.org
-Insecure.Org
+- scanme.nmap.org
+- Insecure.Org
